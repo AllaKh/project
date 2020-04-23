@@ -1,2 +1,2 @@
 # project
-furst project
+first project
